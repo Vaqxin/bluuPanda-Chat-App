@@ -2,7 +2,7 @@
 
 # bluuPanda Chat App
 
-This is a chat app created for Hive's coding challenge but will continue as a community resource.
+This is a chat app created as coding challenge for myself but will continue as a community resource.
 
 Built with React + Meteor + ES2015
 
